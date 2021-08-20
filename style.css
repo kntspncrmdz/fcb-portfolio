@@ -56,3 +56,13 @@ h2 {
 html {
 	scroll-behavior: smooth;
 }
+
+nav {
+	position: absolute;
+	left: 0;
+	top: 0;
+}
+
+body {
+	padding-top: 60px;
+}
